@@ -3,7 +3,7 @@
 # ================================================================
 
 # TOKEN AKUN DISCORD (WAJIB RESET PASSWORD DULU, AMBIL TOKEN BARU!)
-USER_TOKEN = ""
+USER_TOKEN = "token"
 
 # ================================================================
 #  SUMBER — Server & Channel yang dipantau mention-nya
