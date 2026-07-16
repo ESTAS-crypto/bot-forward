@@ -3,7 +3,7 @@
 # ================================================================
 
 # TOKEN AKUN DISCORD (WAJIB RESET PASSWORD DULU, AMBIL TOKEN BARU!)
-USER_TOKEN = "MTA2MDI1NzQzMjgyMTA1OTYxNg.GL_3HL.W50EU6DVS3uvmnotW3fWEXGj81d_P90vRIuVUc"
+USER_TOKEN = ""
 
 # ================================================================
 #  SUMBER — Server & Channel yang dipantau mention-nya
